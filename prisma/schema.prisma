@@ -1,6 +1,5 @@
 datasource db {
   provider = "postgresql"
-  // no url here in Prisma 7
 }
 
 generator client {
